@@ -1,6 +1,6 @@
 {
   "name": "use-web-storage-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple react hooks to use the Web Storage API (https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)",
   "main": "index.js",
   "type": "module",
