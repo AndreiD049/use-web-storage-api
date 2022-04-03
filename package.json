@@ -1,6 +1,6 @@
 {
   "name": "use-web-storage-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple react hooks to use the Web Storage API (https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)",
   "main": "index.js",
   "type": "module",
@@ -15,6 +15,10 @@
   ],
   "author": "Andrei Dimitrascu",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndreiD049/use-web-storage-api"
+  },
   "peerDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
