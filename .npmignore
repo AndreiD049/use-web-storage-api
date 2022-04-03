@@ -80,7 +80,6 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -103,9 +102,20 @@ dist
 # TernJS port file
 .tern-port
 
-dist
-coverage
-.vscode
-
 stats.html
+
 .size-snapshot.json
+
+tsconfig.json
+
+src/
+
+coverage/
+
+.vscode/
+
+LICENSE
+
+package-lock.json
+
+rollup.config.js
