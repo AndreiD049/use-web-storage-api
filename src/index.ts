@@ -23,7 +23,7 @@ const useWebStorage = <T>(
 
     useEffect(() => {
         operator.setValue(value);
-    }, [value]);
+    }, [value, options.key]);
 
     return [value, setValue];
 };
